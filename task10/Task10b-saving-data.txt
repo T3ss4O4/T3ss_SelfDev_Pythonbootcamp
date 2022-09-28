@@ -1,0 +1,10 @@
+# Now think of a way how other people could get access to this data. 
+# How would you make the data available for me so I could check the members, add or delete members?
+# That said you can already start reading about databases and how to work with APIs.
+# Write down your solution in a new file called Task10b-saving-data.txt
+
+
+Data could be safed in different forms of databases like relational databases or objectorientated databases or you store them in raw-format in a timebased filesystem like splunk does. 
+(This btw. has the benefit that no information is lost until you ask it a question, you're welcome ;)
+
+If you'd like to share the safed data you might host your database or splunksystem in a cloud and create users with different access-levels to the data.

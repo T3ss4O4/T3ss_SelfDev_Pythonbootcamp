@@ -1,0 +1,11 @@
+Define HTML and API
+
+HTML: 
+
+Short for Hypertext Markup Language defines the structure of a website as read and shown by a browser. 
+Some people say there are html-programmers, some say there aren't.
+
+API: 
+
+Short for Application Programming Interface.
+Is a connection point of a pice of software or system to exchange information with an other one. 

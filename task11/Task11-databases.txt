@@ -1,0 +1,25 @@
+a)
+# Create a new file called Task11-databases.txt and answer the following questions:
+# Why do you need databases and don't save everything into .json files?
+# When is it recommended to you use NOSQL and relational database management system (RDBMS)?
+
+1. Databases allow to handle way bigger amounts of data then a single file can do. They can be accessed by multiple instances, structure data and therefore can be searched easily. 
+2. NOSQL can handle different structured data way better and some say it can also handle bigger amounts than sql. RDBMS is usefull whenever the question askesd to the data is complex.
+
+b)
+# Create another section in the same file and research what SQL is and why we need it to work with databases. Write it below the previous answers.
+# Find out what the SQL commands "SELECT", "FROM", "INSERT" and "WHERE" stand for and when you would want to use them. 
+# Write your answers into your new file.
+
+SQL is a language to work with relational databases.
+
+SELECT = defines what colums to get from a table 
+FROM = defines the table(s) to get from 
+INSERT = adds content to the database
+WHERE = Adds additional conditions to the command that must be met 
+
+c)
+# Research what PGADMIN4  and PostgreSQL are and write your own definition into the same file, as a new chapter. 
+
+PGADMIN4 = opensource tool to administrate PostgreSQL databases 
+PostgreSQL = objectrelational DBMS working wiht the SQL-standard

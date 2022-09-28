@@ -1,0 +1,24 @@
+Your goal is to define what web-scraping is and why it is so exciting and interesting. 
+To do that, rewatch our last episode and do your own research about Python & its role in Web Scraping. 
+Create a web-scraping.txt file and write down with your own words what web scraping is and what kind of tools or technologies you think you need to do web scraping. 
+It doesn't have to be perfect/correct. 
+The goal is to put some time into it and think about that.
+
+
+Answer:
+
+
+Web Scraping is a method that is determined to gather information from a website automatically.
+Web Scraping can either be used in a good or bad way, for example by searching machines like google or to steal content for example by an attacker who rebuilds a website to take over a identity. 
+ 
+Some technologies needed for webscraping are: 
+
+HTML knowledge (e.g. GET method) 
+programming ability (e.g. python)
+aaand some knowledge of usefull libraries  
+The URL of the website to scrape
+maybe some RegEx (yeeeahhhh here we are again, party) 
+
+I definitly forgot something. 
+
+
